@@ -16,3 +16,5 @@
 - [eBPF Party](https://ebpf.party/)
 - [The Path of a Packet Through the Linux Kernel (PDF)](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2024-04-1/NET-2024-04-1_16.pdf)
 - [Compiler Optimizations: What Every Programmer Should Know](https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/february/compilers-what-every-programmer-should-know-about-compiler-optimizations#wrapping-up)
+- [The Linux Kernel Module Programming Guide (LKMPG)](https://sysprog21.github.io/lkmpg/) — writing kernel modules for Linux
+- [Compiler Optimizations (Sergey Baziotis)](https://sbaziotis.com/compilers/compiler-opt.html)
