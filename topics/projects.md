@@ -8,3 +8,6 @@ Hands-on project ideas to build real understanding.
 - [Write Your Own Virtual Machine (LC-3)](https://www.jmeiners.com/lc3-vm/)
 - [Challenging Projects Every Programmer Should Try](https://austinhenley.com/blog/challengingprojects.html)
 - [Programming Projects for Advanced Beginners (ASCII Art)](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
+- [Build Your Own X](https://build-your-own.org/)
+- [craftinginterpreters](https://craftinginterpreters.com/contents.html)
+- [gameprogrammingpatterns](https://gameprogrammingpatterns.com/introduction.html)
